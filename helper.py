@@ -1,3 +1,3 @@
 def greeting(msg):
-    print("This file was changed from the master branch")
-    print(msg)
+    print("Inside the greeting function")
+    print("The message was:", msg)
