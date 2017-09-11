@@ -1,4 +1,4 @@
 from helper import greeting
 
-greeting("hello")
+greeting("Testing the greeting function")
 
